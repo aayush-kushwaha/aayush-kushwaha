@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Kushwaha</h1>
-<h3 align="center">I'm passionate about exploring new technologies.</h3>
+<h3 align="center">I'm passionate about exploring new technologies. Currently, exploring Data Analaytics tools and technologies.</h3>
 
 <p align="left"> <a href="https://twitter.com/aayush_30098" target="blank"><img src="https://img.shields.io/twitter/follow/aayush_30098?logo=twitter&style=for-the-badge" alt="aayush_30098" /></a> </p>
-
-- 📝 I regularly write articles on [https://www.aayushkushwaha.com/](https://www.aayushkushwaha.com/)
 
 - 💬 Ask me about **Python(Numpy, Pandas, Matplotlib, Seaborn), SQL, Power BI, Excel**
 
