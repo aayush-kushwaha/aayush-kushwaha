@@ -1,35 +1,55 @@
-# Introduction
+### Hi there, I'm Aayush Kushwaha! 👋  
 
-Hi there! 👋 I'm Aayush Kushwaha, a passionate and experienced Software Engineer based in Bengaluru, Karnataka, India. Here's a brief overview of my professional journey so far:
+🚀 **Backend Developer | Aspiring Data Engineer | MS in Computer Science (Fall 2025)**  
+💡 Passionate about designing **efficient, scalable, and reliable backend systems**.  
+🔍 Enthusiastic about **clean code, system architecture, and automation**.  
 
-## Experience
+---
 
-### Software Engineer at DigitalPetro Pvt. Ltd. (Sep 2022 - Present)
+### 🛠 Tech Stack:
 
-- Spearheaded the development and optimization of IoT systems in petrol stations, enhancing security and transforming inventory management.
-- Leveraged advanced technologies, including FastAPI, Redis, Elasticsearch, RabbitMQ, and Thingsboard, to deliver high-performance backend solutions.
-- Achieved a remarkable reduction in API load times, cutting response times from 45 seconds to less than 1 second through efficient Redis caching.
-- Pioneered the creation of a price-changing API, enabling real-time adjustments to fuel prices across all dispensers for seamless operations.
-- Managed and automated critical processes with the implementation of numerous Python scripts, skillfully integrated into cron jobs, ensuring system efficiency and reliability.
-- Designed and implemented rulechains in Thingsboard, empowering the monitoring and generation of alerts for vital parameters.
-- Contributed to an enhanced user experience by introducing a session timeout feature, bolstering system security and productivity.
+- **Languages:** Python, Java, JavaScript  
+- **Backend Frameworks:** FastAPI, Flask  
+- **Databases:** SQL, MongoDB, Redis, Elasticsearch  
+- **Message Queues & Automation:** RabbitMQ, Python scripting  
+- **Dev Tools:** Docker, Linux (Ubuntu), Git, Postman, CVAT, VS Code  
 
-#### Skills:
-SQL · API Development · C++ · Arduino · Software Design · Linux · Python (Programming Language) · FastAPI · Elasticsearch · Redis
+---
 
-### Engineer Intern at DigiNirman (Aug 2021 - Nov 2021)
+### 💼 Work Experience:
 
-- Engaged in meticulous analysis and validation of data for cutting-edge machine learning (ML) models.
-- Actively involved in the training of ML models, ensuring they were honed to perfection.
-- Converted raw data into actionable insights, empowering key business decisions.
-- Devised and executed automation scripts using Python, revolutionizing workflows and improving efficiency.
-- Demonstrated robust problem-solving skills and meticulous attention to detail.
+#### 🏢 **DigitalPetro Private Limited (Software Engineer)**
+- 🚀 **Optimized dashboard API**, reducing response time from **45s to <1s** (98% improvement).  
+- 🔄 Integrated **RabbitMQ** to enhance system **reliability (92% → 98%)**.  
+- 🔧 Developed **IoT automation for fuel stations** (IOCL, IOML), enhancing operational efficiency.  
+- 🤖 **Automated workflows**, reducing manual efforts and customer support tickets by **40%**.  
 
-#### Skills:
-Machine Learning · YOLO V4 · PyTorch · Scikit-Learn · Convolutional Neural Networks (CNN) · Python (Programming Language)
+#### 🏢 **DigiNirman Engineering (Engineer Intern)**
+- 🧠 Developed **scripts for AI Robo Traffic**, partitioning **video data for ML models**.  
+- 🎯 Utilized **CVAT for data annotation**, ensuring **ML model training accuracy**.  
+- ⚙️ Automated **data processing workflows**, reducing manual intervention.  
 
-## Connect with Me
+---
 
-Feel free to reach out and connect with me on https://www.linkedin.com/in/aayushkushwaha. Let's chat about technology, coding, or anything interesting!
+### 🎯 Currently Exploring:
 
-Looking forward to connecting with you!
+- **Machine Learning & AI** 🧠 (Building an AI chatbot for conversational mimicry).  
+- **Cloud Computing & DevOps** ☁️.  
+- **Mathematics for Data Science** 📊.  
+
+---
+
+### 🎓 Education:
+
+🎓 **B.Tech in Computer Science & Systems Engineering** | KIIT University (2017-2021).  
+📚 Relevant coursework: **DSA, DBMS, Distributed Systems, Big Data, IoT, Web Tech**.  
+
+---
+
+### 📫 Let's Connect!
+
+🌐 [Portfolio](https://www.aayushkushwaha.com.np/)  
+💼 [LinkedIn](https://www.linkedin.com/in/aayushkushwaha)  
+🐦 [Twitter/X](https://twitter.com/yourhandle)  
+
+📌 **Always open to collaborations & learning opportunities! 🚀**
