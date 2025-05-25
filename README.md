@@ -50,5 +50,6 @@
 
 🌐 [Portfolio](https://www.aayushkushwaha.com.np/)  
 💼 [LinkedIn](https://www.linkedin.com/in/aayushkushwaha) 
+💼 [Blog](https://medium.com/@aayush.kushwaha107) 
 
 📌 **Always open to collaborations & learning opportunities! 🚀**
