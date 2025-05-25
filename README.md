@@ -49,7 +49,6 @@
 ### 📫 Let's Connect!
 
 🌐 [Portfolio](https://www.aayushkushwaha.com.np/)  
-💼 [LinkedIn](https://www.linkedin.com/in/aayushkushwaha)  
-🐦 [Twitter/X](https://twitter.com/yourhandle)  
+💼 [LinkedIn](https://www.linkedin.com/in/aayushkushwaha) 
 
 📌 **Always open to collaborations & learning opportunities! 🚀**
